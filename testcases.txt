@@ -1,0 +1,82 @@
+Micole Finehart
+mcf155
+
+Sridhar Sriram 
+sss293
+
+
+INPUT:”bye stuff hot”
+OUTPUT:
+bye
+hot
+stuff
+
+INPUT:”hot stuff bye”
+OUTPUT:
+bye
+hot
+stuff 
+
+INPUT:”1234234” 
+OUTPUT:
+
+INPUT:”ht/dtuff/bye/“ 
+OUTPUT:
+bye
+dtuff
+ht
+
+INPUT:”min minute MINIMAL123 minutia@ MIN minutian”
+OUTPUT:
+MIN
+MINIMAL
+min
+minute
+minutia
+minutian
+
+INPUT:”min minute minimal  minutia minimal” 
+OUTPUT:
+min
+minimal
+minimal
+minute
+minutia
+
+INPUT:”HELLO hello Hello HELLo HEllo HELlo  /“ 
+OUTPUT:
+HELLO
+HELLo
+HELlo
+HEllo
+Hello
+hello
+
+INPUT:”bbbbbbbb uuuuuuuuu  jjjjjjjj ju llllllll ttt ts”
+OUTPUT:
+bbbbbbbb
+jjjjjjjj
+ju
+llllllll
+ts
+ttt
+uuuuuuuuu
+
+INPUT:”Hello Zebra/blarg; thing’ stuff” 
+OUTPUT:
+Hello
+Zebra
+blarg
+stuff
+thing
+
+INPUT:" 25hi pp abc ABc 12213   ABC45”
+OUTPUT:
+ABC
+ABc
+abc
+hi
+pp
+
+INPUT:””
+OUTPUT:
